@@ -7,9 +7,9 @@
 4. 隐私检测：检测图片隐私信息，显示定位地图
 5. 嵌入文章编辑器，可以预览媒体库文件，以不同格式写入文章
 
-更新网站：https://forum.hashub.org/viewtopic.php?t=53
-欢迎入驻寒石论坛：https://forum.hashub.org/
-寒石论坛面向大学生、科研人员与网络博主，分享课程资料、编程、Typecho、phpBB与游戏知识，打造自由共享社区。
+- 更新网站：https://forum.hashub.org/viewtopic.php?t=53
+- 欢迎入驻寒石论坛：https://forum.hashub.org/
+- 寒石论坛面向大学生、科研人员与网络博主，分享课程资料、编程、Typecho、phpBB与游戏知识，打造自由共享社区。
 
 | 赞助者              | 金额  | 备注  |
 | ---------------- | --- | --- |
